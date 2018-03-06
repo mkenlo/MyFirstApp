@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Henri\'s Studios</string>
+    <string name="action_settings">Settings</string>
+    <string name="business_about">About me</string>
+    <string name="business_description">
+        "I have always loved photography.\n"
+        "I am an Artist with several years of experience as an Photographer/Designer who can think,"
+        "imagine, envision and carry through assignments while meeting the needs of my clients "
+        "beyond their expectations."
+    </string>
+    <string name="business_address">820 Laurel Ave, SpringLand</string>
+    <string name="business_telephone">545 7878 8888</string>
+    <string name="business_website">http://www.henriphotostudios.me</string>
+    <string name="business_hours">
+        "Monday - Saturday: 9 AM - 7 PM\n"
+        "Closed on Sunday"
+    </string>
+    <string name="business_portfolio">Portfolio</string>
+</resources>
